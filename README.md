@@ -43,8 +43,10 @@ Built using **Python, CSV/SQLite**, and **Pandas** — ideal for learning data h
    git clone https://github.com/YourUsername/personal-expense-tracker.git
 2. Navigate into the folder
    cd personal-expense-tracker
+
 3. Install required libraries
     pip install -r requirements.txt
+   
 4. Run the script
    python expense_tracker.py
 
